@@ -71,7 +71,7 @@ body{
 	margin: 5px;
 	text-align: center;
 	opacity: 0.5;
-	transition: ease-in-out 0.2s;
+	transition: all ease-in-out 0.2s;
 }
 .cabecera .redesSociales a:hover{
 	opacity: 1;
@@ -106,7 +106,7 @@ body{
 	background: rgba(26, 188, 156, 0.6);
 	padding: 30px;
 	border-bottom: 2px solid transparent;
-	transition: ease-in-out 0.2s;
+	transition: all ease-in-out 0.2s;
 }
 .menuPrincipal nav section a:hover{
 	border-bottom: 2px solid white;
